@@ -2,7 +2,6 @@
 import express from 'express';
 import bodyParser from 'body-parser';
 import nodemailer from 'nodemailer';
-import 'dotenv/config'
 
 // Create an Express app
 const app = express();
